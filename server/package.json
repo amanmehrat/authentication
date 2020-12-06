@@ -12,7 +12,11 @@
   "license": "ISC",
   "dependencies": {
     "app-root-path": "^3.0.0",
+    "bcrypt": "^5.0.0",
+    "crypto": "^1.0.1",
     "express": "^4.17.1",
+    "joi": "^17.3.0",
+    "mongo-sanitize": "^1.1.0",
     "mongoose": "^5.11.4",
     "morgan": "^1.10.0",
     "winston": "^3.3.3"
